@@ -64,19 +64,19 @@ header {
 }
 
 /* ===== Sectiunea Home ===== */
-#home {
+#index {
   background-color: #fff2e6;
   padding: 60px 20px;
   text-align: center;
 }
 
-#home h2 {
+#index h2 {
   font-family: "Raleway", sans-serif;
   font-size: 2.4rem;
   color: #b25e0d;
 }
 
-#home p {
+#index p {
   font-size: 1.2rem;
   font-family: "Raleway", sans-serif;
   color: #b25e0d;
